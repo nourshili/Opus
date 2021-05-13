@@ -1,0 +1,42 @@
+h2,h3,p{
+    color:#020c32 ;
+    
+}
+.ml2 {
+  color: #020c32;
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+
+
+.carousel-inner img {
+  width: 100%; /* Set width to 100% */
+  min-height: 300px;
+  
+}
+.navbar { 
+    background-color: #020c32;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+}
+.myCarousel {
+    padding-left: 0%;
+    margin-left: 0%;
+}
+.li {
+    text-decoration:#6dc5c0;
+    
+}
+.nounou , .azza { background-color:#D3D3D3;}
+.khadija {
+  width: 85%;
+}
+.footer{background-color:#020c32 ;}
+
