@@ -1,0 +1,51 @@
+.logo { 
+  float: left;
+  display: inline-block;
+}
+.nav  {
+    background: #020c32; 
+  }
+  .nav a {
+   
+    color:#6dc5c0 ; /* White text color */
+    /* Center the text */
+    
+    text-decoration:#6dc5c0; /* Remove underline */
+  }
+  .nav a:hover {
+    background-color :white; /* Grey background color */
+    color:#6dc5c0; /* Black text color */
+  }
+
+.carouselExampleCaptions {
+    height: 20 px;
+}
+.footer{
+    background: #020c32;
+    color:white;
+    font: Lemon Milk Reguar;
+    
+    .links{
+      ul {list-style-type: none;}
+      li a{
+        color: white;
+        transition: color .2s;
+        &:hover{
+          text-decoration:none;
+          color:#4180CB;
+          }
+      }
+    }  
+    .about-company{
+      i{font-size: 25px;}
+      a{
+        color:white;
+        transition: color .2s;
+        &:hover{color:#4180CB}
+      }
+    } 
+    .location{
+      i{font-size: 18px;}
+    }
+    .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+  }
